@@ -1,0 +1,9 @@
+dr-usertool
+pytest
+pytest-runner
+responses
+urllib3 >= 1.25.0
+datarobot==2.23.0b0
+requests >= 2.24.0
+scikit-learn==0.23.1
+sagemaker-scikit-learn-extension==1.1.0
